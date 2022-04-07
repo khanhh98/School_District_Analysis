@@ -15,10 +15,9 @@
       + Scores by school size: There is no significant change 
       + Scores by school size: There is no significant change
       + Scores by school type: There is no significant change
-
-  Summary:
+ ### Summary:
       + The reading score by grade for Thomas HS's ninth-grade students changes to nan
       + The math score by grade for Thomas HS's ninth-grade students changes to nan
-      +
-      +
+      
+      
       
